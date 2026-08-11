@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f57da30b-049e-4758-96fc-a93cdfad227d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/rectangle.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="Qp5IunaQ" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="3.1.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3EVsQzrUW8OIT3gM2GGi0jWx5Ak" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Inheritance1.cpp.executor": "Run",
+    "C/C++ File.NutritionCalculator.cpp.executor": "Run",
+    "C/C++ File.add_overloading(rectangle).cpp.executor": "Run",
+    "C/C++ File.arrayOfNestedObject.cpp.executor": "Run",
+    "C/C++ File.array_structure.cpp.executor": "Run",
+    "C/C++ File.assign_overloading(rectangle).cpp.executor": "Run",
+    "C/C++ File.class_object.cpp.executor": "Run",
+    "C/C++ File.container_class.cpp.executor": "Run",
+    "C/C++ File.equal_to_overloading(rectangle).cpp.executor": "Run",
+    "C/C++ File.friend_class.cpp.executor": "Run",
+    "C/C++ File.friend_function.cpp.executor": "Run",
+    "C/C++ File.friend_method.cpp.executor": "Run",
+    "C/C++ File.inheritanceType1(single).cpp.executor": "Run",
+    "C/C++ File.inheritanceType2(multiple).cpp.executor": "Run",
+    "C/C++ File.inheritanceType3(multilevel).cpp.executor": "Run",
+    "C/C++ File.inheritanceType4(hierarchical).cpp.executor": "Run",
+    "C/C++ File.inheritanceType5(hybrid).cpp.executor": "Run",
+    "C/C++ File.initializer.cpp.executor": "Run",
+    "C/C++ File.members.cpp.executor": "Run",
+    "C/C++ File.members2.cpp.executor": "Run",
+    "C/C++ File.nested_class.cpp.executor": "Run",
+    "C/C++ File.new_delete_this.cpp.executor": "Run",
+    "C/C++ File.nutrition_calculator.cpp.executor": "Run",
+    "C/C++ File.nutrition_calculator01.cpp.executor": "Run",
+    "C/C++ File.nutrition_calculator02.cpp.executor": "Run",
+    "C/C++ File.overloading.cpp.executor": "Run",
+    "C/C++ File.person.cpp.executor": "Run",
+    "C/C++ File.struct_Person.cpp.executor": "Run",
+    "CMake Application.C__.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/C++/main.cpp",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C++ programming\cmake-build-debug" />
+      <recent name="D:\C++ programming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.assign_overloading(rectangle).cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="add_overloading(rectangle).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="add_overloading(rectangle).cpp" CONFIG_NAME="add_overloading(rectangle).cpp">
+      <option name="sourceFile" value="add_overloading(rectangle).cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assign_overloading(rectangle).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="assign_overloading(rectangle).cpp" CONFIG_NAME="assign_overloading(rectangle).cpp">
+      <option name="sourceFile" value="assign_overloading(rectangle).cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="container_class.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="container_class.cpp" CONFIG_NAME="container_class.cpp">
+      <option name="sourceFile" value="container_class.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="container_class.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="container_class.cpp" CONFIG_NAME="container_class.cpp">
+      <option name="sourceFile" value="container_class.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="equal_to_overloading(rectangle).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="equal_to_overloading(rectangle).cpp" CONFIG_NAME="equal_to_overloading(rectangle).cpp">
+      <option name="sourceFile" value="equal_to_overloading(rectangle).cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritanceType4(hierarchical).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="inheritanceType4(hierarchical).cpp" CONFIG_NAME="inheritanceType4(hierarchical).cpp">
+      <option name="sourceFile" value="inheritanceType4(hierarchical).cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritanceType5(hybrid).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="inheritanceType5(hybrid).cpp" CONFIG_NAME="inheritanceType5(hybrid).cpp">
+      <option name="sourceFile" value="inheritanceType5(hybrid).cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="initializer.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="initializer.cpp" CONFIG_NAME="initializer.cpp">
+      <option name="sourceFile" value="initializer.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="overloading.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="overloading.cpp" CONFIG_NAME="overloading.cpp">
+      <option name="sourceFile" value="overloading.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="overloading.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="overloading.cpp" CONFIG_NAME="overloading.cpp">
+      <option name="sourceFile" value="overloading.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.add_overloading(rectangle).cpp" />
+      <item itemvalue="C/C++ File.assign_overloading(rectangle).cpp" />
+      <item itemvalue="C/C++ File.equal_to_overloading(rectangle).cpp" />
+      <item itemvalue="C/C++ File.overloading.cpp" />
+      <item itemvalue="C/C++ File.container_class.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.assign_overloading(rectangle).cpp" />
+        <item itemvalue="C/C++ File.equal_to_overloading(rectangle).cpp" />
+        <item itemvalue="C/C++ File.add_overloading(rectangle).cpp" />
+        <item itemvalue="C/C++ File.overloading.cpp" />
+        <item itemvalue="C/C++ File.container_class.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f57da30b-049e-4758-96fc-a93cdfad227d" name="Changes" comment="" />
+      <created>1780275059822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780275059822</updated>
+      <workItem from="1780275061158" duration="766000" />
+      <workItem from="1780275846357" duration="1478000" />
+      <workItem from="1780455271870" duration="467000" />
+      <workItem from="1780455759014" duration="257000" />
+      <workItem from="1780456066705" duration="29000" />
+      <workItem from="1780643411696" duration="5069000" />
+      <workItem from="1780989263500" duration="2980000" />
+      <workItem from="1780992365817" duration="1840000" />
+      <workItem from="1781070986137" duration="1200000" />
+      <workItem from="1781417640582" duration="3529000" />
+      <workItem from="1781484998721" duration="1748000" />
+      <workItem from="1781487629360" duration="156000" />
+      <workItem from="1781487929317" duration="14000" />
+      <workItem from="1781488007112" duration="103000" />
+      <workItem from="1781488113571" duration="315000" />
+      <workItem from="1781488474137" duration="133000" />
+      <workItem from="1781488653521" duration="35000" />
+      <workItem from="1782090368979" duration="4038000" />
+      <workItem from="1782099876784" duration="4200000" />
+      <workItem from="1782125034702" duration="1465000" />
+      <workItem from="1782137552405" duration="23000" />
+      <workItem from="1782227189158" duration="3828000" />
+      <workItem from="1782269248788" duration="3302000" />
+      <workItem from="1782289926647" duration="6127000" />
+      <workItem from="1782348816546" duration="1084000" />
+      <workItem from="1782350814230" duration="3000" />
+      <workItem from="1782540620985" duration="4391000" />
+      <workItem from="1782627379609" duration="2806000" />
+      <workItem from="1782873472563" duration="836000" />
+      <workItem from="1782874373062" duration="1852000" />
+      <workItem from="1782902671799" duration="3441000" />
+      <workItem from="1782907034134" duration="130000" />
+      <workItem from="1782953724213" duration="1790000" />
+      <workItem from="1783149407268" duration="2543000" />
+      <workItem from="1783237613132" duration="1106000" />
+      <workItem from="1783751118694" duration="1715000" />
+      <workItem from="1784018098854" duration="2533000" />
+      <workItem from="1784472705568" duration="35000" />
+      <workItem from="1784511147624" duration="653000" />
+      <workItem from="1784687037830" duration="1125000" />
+      <workItem from="1784690868721" duration="473000" />
+      <workItem from="1785077578165" duration="1785000" />
+      <workItem from="1785155873872" duration="1628000" />
+      <workItem from="1785647926507" duration="1906000" />
+      <workItem from="1785852497459" duration="327000" />
+      <workItem from="1785852841267" duration="1101000" />
+      <workItem from="1785897203032" duration="519000" />
+      <workItem from="1786087406638" duration="3547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
