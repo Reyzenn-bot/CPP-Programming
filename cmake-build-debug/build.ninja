@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: C__
+# Project: C++_Programming
 # Configurations: Debug
 # =============================================================================
 
@@ -41,81 +41,494 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = D$:/C++$ programming/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target C__
+# Object build statements for EXECUTABLE target class_object
 
 
 #############################################
-# Order-only phony target for C__
+# Order-only phony target for class_object
 
-build cmake_object_order_depends_target_C__: phony || .
+build cmake_object_order_depends_target_class_object: phony || .
 
-build CMakeFiles/C__.dir/main.cpp.obj: CXX_COMPILER__C___unscanned_Debug D$:/C++$ programming/main.cpp || cmake_object_order_depends_target_C__
+build CMakeFiles/class_object.dir/Class_and_Object/class_object.cpp.obj: CXX_COMPILER__class_object_unscanned_Debug D$:/C++$ programming/Class_and_Object/class_object.cpp || cmake_object_order_depends_target_class_object
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\C__.dir\main.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C__.dir
-  OBJECT_FILE_DIR = CMakeFiles\C__.dir
-
-build CMakeFiles/C__.dir/struct_Person.cpp.obj: CXX_COMPILER__C___unscanned_Debug D$:/C++$ programming/struct_Person.cpp || cmake_object_order_depends_target_C__
-  CONFIG = Debug
-  DEP_FILE = CMakeFiles\C__.dir\struct_Person.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C__.dir
-  OBJECT_FILE_DIR = CMakeFiles\C__.dir
-
-build CMakeFiles/C__.dir/array_structure.cpp.obj: CXX_COMPILER__C___unscanned_Debug D$:/C++$ programming/array_structure.cpp || cmake_object_order_depends_target_C__
-  CONFIG = Debug
-  DEP_FILE = CMakeFiles\C__.dir\array_structure.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C__.dir
-  OBJECT_FILE_DIR = CMakeFiles\C__.dir
-
-build CMakeFiles/C__.dir/class_object.cpp.obj: CXX_COMPILER__C___unscanned_Debug D$:/C++$ programming/class_object.cpp || cmake_object_order_depends_target_C__
-  CONFIG = Debug
-  DEP_FILE = CMakeFiles\C__.dir\class_object.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C__.dir
-  OBJECT_FILE_DIR = CMakeFiles\C__.dir
-
-build CMakeFiles/C__.dir/members.cpp.obj: CXX_COMPILER__C___unscanned_Debug D$:/C++$ programming/members.cpp || cmake_object_order_depends_target_C__
-  CONFIG = Debug
-  DEP_FILE = CMakeFiles\C__.dir\members.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C__.dir
-  OBJECT_FILE_DIR = CMakeFiles\C__.dir
-
-build CMakeFiles/C__.dir/members2.cpp.obj: CXX_COMPILER__C___unscanned_Debug D$:/C++$ programming/members2.cpp || cmake_object_order_depends_target_C__
-  CONFIG = Debug
-  DEP_FILE = CMakeFiles\C__.dir\members2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C__.dir
-  OBJECT_FILE_DIR = CMakeFiles\C__.dir
-
-build CMakeFiles/C__.dir/person.cpp.obj: CXX_COMPILER__C___unscanned_Debug D$:/C++$ programming/person.cpp || cmake_object_order_depends_target_C__
-  CONFIG = Debug
-  DEP_FILE = CMakeFiles\C__.dir\person.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C__.dir
-  OBJECT_FILE_DIR = CMakeFiles\C__.dir
+  DEP_FILE = CMakeFiles\class_object.dir\Class_and_Object\class_object.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Class_and_Object
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target C__
+# Link build statements for EXECUTABLE target class_object
 
 
 #############################################
-# Link the executable C__.exe
+# Link the executable class_object.exe
 
-build C__.exe: CXX_EXECUTABLE_LINKER__C___Debug CMakeFiles/C__.dir/main.cpp.obj CMakeFiles/C__.dir/struct_Person.cpp.obj CMakeFiles/C__.dir/array_structure.cpp.obj CMakeFiles/C__.dir/class_object.cpp.obj CMakeFiles/C__.dir/members.cpp.obj CMakeFiles/C__.dir/members2.cpp.obj CMakeFiles/C__.dir/person.cpp.obj
+build class_object.exe: CXX_EXECUTABLE_LINKER__class_object_Debug CMakeFiles/class_object.dir/Class_and_Object/class_object.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\C__.dir
+  OBJECT_DIR = CMakeFiles\class_object.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = C__.exe
-  TARGET_IMPLIB = libC__.dll.a
-  TARGET_PDB = C__.exe.dbg
+  TARGET_FILE = class_object.exe
+  TARGET_IMPLIB = libclass_object.dll.a
+  TARGET_PDB = class_object.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target friend_class
+
+
+#############################################
+# Order-only phony target for friend_class
+
+build cmake_object_order_depends_target_friend_class: phony || .
+
+build CMakeFiles/friend_class.dir/Class_and_Object/friend_class.cpp.obj: CXX_COMPILER__friend_class_unscanned_Debug D$:/C++$ programming/Class_and_Object/friend_class.cpp || cmake_object_order_depends_target_friend_class
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\friend_class.dir\Class_and_Object\friend_class.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\friend_class.dir
+  OBJECT_FILE_DIR = CMakeFiles\friend_class.dir\Class_and_Object
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target friend_class
+
+
+#############################################
+# Link the executable friend_class.exe
+
+build friend_class.exe: CXX_EXECUTABLE_LINKER__friend_class_Debug CMakeFiles/friend_class.dir/Class_and_Object/friend_class.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\friend_class.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = friend_class.exe
+  TARGET_IMPLIB = libfriend_class.dll.a
+  TARGET_PDB = friend_class.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target friend_function
+
+
+#############################################
+# Order-only phony target for friend_function
+
+build cmake_object_order_depends_target_friend_function: phony || .
+
+build CMakeFiles/friend_function.dir/Class_and_Object/friend_function.cpp.obj: CXX_COMPILER__friend_function_unscanned_Debug D$:/C++$ programming/Class_and_Object/friend_function.cpp || cmake_object_order_depends_target_friend_function
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\friend_function.dir\Class_and_Object\friend_function.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\friend_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\friend_function.dir\Class_and_Object
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target friend_function
+
+
+#############################################
+# Link the executable friend_function.exe
+
+build friend_function.exe: CXX_EXECUTABLE_LINKER__friend_function_Debug CMakeFiles/friend_function.dir/Class_and_Object/friend_function.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\friend_function.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = friend_function.exe
+  TARGET_IMPLIB = libfriend_function.dll.a
+  TARGET_PDB = friend_function.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target friend_method
+
+
+#############################################
+# Order-only phony target for friend_method
+
+build cmake_object_order_depends_target_friend_method: phony || .
+
+build CMakeFiles/friend_method.dir/Class_and_Object/friend_method.cpp.obj: CXX_COMPILER__friend_method_unscanned_Debug D$:/C++$ programming/Class_and_Object/friend_method.cpp || cmake_object_order_depends_target_friend_method
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\friend_method.dir\Class_and_Object\friend_method.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\friend_method.dir
+  OBJECT_FILE_DIR = CMakeFiles\friend_method.dir\Class_and_Object
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target friend_method
+
+
+#############################################
+# Link the executable friend_method.exe
+
+build friend_method.exe: CXX_EXECUTABLE_LINKER__friend_method_Debug CMakeFiles/friend_method.dir/Class_and_Object/friend_method.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\friend_method.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = friend_method.exe
+  TARGET_IMPLIB = libfriend_method.dll.a
+  TARGET_PDB = friend_method.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target members
+
+
+#############################################
+# Order-only phony target for members
+
+build cmake_object_order_depends_target_members: phony || .
+
+build CMakeFiles/members.dir/Class_and_Object/members.cpp.obj: CXX_COMPILER__members_unscanned_Debug D$:/C++$ programming/Class_and_Object/members.cpp || cmake_object_order_depends_target_members
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\members.dir\Class_and_Object\members.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\members.dir
+  OBJECT_FILE_DIR = CMakeFiles\members.dir\Class_and_Object
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target members
+
+
+#############################################
+# Link the executable members.exe
+
+build members.exe: CXX_EXECUTABLE_LINKER__members_Debug CMakeFiles/members.dir/Class_and_Object/members.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\members.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = members.exe
+  TARGET_IMPLIB = libmembers.dll.a
+  TARGET_PDB = members.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target nested_class
+
+
+#############################################
+# Order-only phony target for nested_class
+
+build cmake_object_order_depends_target_nested_class: phony || .
+
+build CMakeFiles/nested_class.dir/Class_and_Object/nested_class.cpp.obj: CXX_COMPILER__nested_class_unscanned_Debug D$:/C++$ programming/Class_and_Object/nested_class.cpp || cmake_object_order_depends_target_nested_class
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\nested_class.dir\Class_and_Object\nested_class.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\nested_class.dir
+  OBJECT_FILE_DIR = CMakeFiles\nested_class.dir\Class_and_Object
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target nested_class
+
+
+#############################################
+# Link the executable nested_class.exe
+
+build nested_class.exe: CXX_EXECUTABLE_LINKER__nested_class_Debug CMakeFiles/nested_class.dir/Class_and_Object/nested_class.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\nested_class.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = nested_class.exe
+  TARGET_IMPLIB = libnested_class.dll.a
+  TARGET_PDB = nested_class.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target person
+
+
+#############################################
+# Order-only phony target for person
+
+build cmake_object_order_depends_target_person: phony || .
+
+build CMakeFiles/person.dir/Class_and_Object/person.cpp.obj: CXX_COMPILER__person_unscanned_Debug D$:/C++$ programming/Class_and_Object/person.cpp || cmake_object_order_depends_target_person
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\person.dir\Class_and_Object\person.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\person.dir
+  OBJECT_FILE_DIR = CMakeFiles\person.dir\Class_and_Object
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target person
+
+
+#############################################
+# Link the executable person.exe
+
+build person.exe: CXX_EXECUTABLE_LINKER__person_Debug CMakeFiles/person.dir/Class_and_Object/person.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\person.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = person.exe
+  TARGET_IMPLIB = libperson.dll.a
+  TARGET_PDB = person.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target inheritance1
+
+
+#############################################
+# Order-only phony target for inheritance1
+
+build cmake_object_order_depends_target_inheritance1: phony || .
+
+build CMakeFiles/inheritance1.dir/Inheritance/Inheritance1.cpp.obj: CXX_COMPILER__inheritance1_unscanned_Debug D$:/C++$ programming/Inheritance/Inheritance1.cpp || cmake_object_order_depends_target_inheritance1
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\inheritance1.dir\Inheritance\Inheritance1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\inheritance1.dir
+  OBJECT_FILE_DIR = CMakeFiles\inheritance1.dir\Inheritance
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target inheritance1
+
+
+#############################################
+# Link the executable inheritance1.exe
+
+build inheritance1.exe: CXX_EXECUTABLE_LINKER__inheritance1_Debug CMakeFiles/inheritance1.dir/Inheritance/Inheritance1.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\inheritance1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = inheritance1.exe
+  TARGET_IMPLIB = libinheritance1.dll.a
+  TARGET_PDB = inheritance1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target inheritance_single
+
+
+#############################################
+# Order-only phony target for inheritance_single
+
+build cmake_object_order_depends_target_inheritance_single: phony || .
+
+build CMakeFiles/inheritance_single.dir/Inheritance/inheritanceType1(single).cpp.obj: CXX_COMPILER__inheritance_single_unscanned_Debug D$:/C++$ programming/Inheritance/inheritanceType1(single).cpp || cmake_object_order_depends_target_inheritance_single
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\inheritance_single.dir\Inheritance\inheritanceType1(single).cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\inheritance_single.dir
+  OBJECT_FILE_DIR = CMakeFiles\inheritance_single.dir\Inheritance
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target inheritance_single
+
+
+#############################################
+# Link the executable inheritance_single.exe
+
+build inheritance_single.exe: CXX_EXECUTABLE_LINKER__inheritance_single_Debug CMakeFiles/inheritance_single.dir/Inheritance/inheritanceType1(single).cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\inheritance_single.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = inheritance_single.exe
+  TARGET_IMPLIB = libinheritance_single.dll.a
+  TARGET_PDB = inheritance_single.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target inheritance_multiple
+
+
+#############################################
+# Order-only phony target for inheritance_multiple
+
+build cmake_object_order_depends_target_inheritance_multiple: phony || .
+
+build CMakeFiles/inheritance_multiple.dir/Inheritance/inheritanceType2(multiple).cpp.obj: CXX_COMPILER__inheritance_multiple_unscanned_Debug D$:/C++$ programming/Inheritance/inheritanceType2(multiple).cpp || cmake_object_order_depends_target_inheritance_multiple
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\inheritance_multiple.dir\Inheritance\inheritanceType2(multiple).cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\inheritance_multiple.dir
+  OBJECT_FILE_DIR = CMakeFiles\inheritance_multiple.dir\Inheritance
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target inheritance_multiple
+
+
+#############################################
+# Link the executable inheritance_multiple.exe
+
+build inheritance_multiple.exe: CXX_EXECUTABLE_LINKER__inheritance_multiple_Debug CMakeFiles/inheritance_multiple.dir/Inheritance/inheritanceType2(multiple).cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\inheritance_multiple.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = inheritance_multiple.exe
+  TARGET_IMPLIB = libinheritance_multiple.dll.a
+  TARGET_PDB = inheritance_multiple.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target inheritance_multilevel
+
+
+#############################################
+# Order-only phony target for inheritance_multilevel
+
+build cmake_object_order_depends_target_inheritance_multilevel: phony || .
+
+build CMakeFiles/inheritance_multilevel.dir/Inheritance/inheritanceType3(multilevel).cpp.obj: CXX_COMPILER__inheritance_multilevel_unscanned_Debug D$:/C++$ programming/Inheritance/inheritanceType3(multilevel).cpp || cmake_object_order_depends_target_inheritance_multilevel
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\inheritance_multilevel.dir\Inheritance\inheritanceType3(multilevel).cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\inheritance_multilevel.dir
+  OBJECT_FILE_DIR = CMakeFiles\inheritance_multilevel.dir\Inheritance
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target inheritance_multilevel
+
+
+#############################################
+# Link the executable inheritance_multilevel.exe
+
+build inheritance_multilevel.exe: CXX_EXECUTABLE_LINKER__inheritance_multilevel_Debug CMakeFiles/inheritance_multilevel.dir/Inheritance/inheritanceType3(multilevel).cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\inheritance_multilevel.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = inheritance_multilevel.exe
+  TARGET_IMPLIB = libinheritance_multilevel.dll.a
+  TARGET_PDB = inheritance_multilevel.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target inheritance_hierarchical
+
+
+#############################################
+# Order-only phony target for inheritance_hierarchical
+
+build cmake_object_order_depends_target_inheritance_hierarchical: phony || .
+
+build CMakeFiles/inheritance_hierarchical.dir/Inheritance/inheritanceType4(hierarchical).cpp.obj: CXX_COMPILER__inheritance_hierarchical_unscanned_Debug D$:/C++$ programming/Inheritance/inheritanceType4(hierarchical).cpp || cmake_object_order_depends_target_inheritance_hierarchical
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\inheritance_hierarchical.dir\Inheritance\inheritanceType4(hierarchical).cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\inheritance_hierarchical.dir
+  OBJECT_FILE_DIR = CMakeFiles\inheritance_hierarchical.dir\Inheritance
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target inheritance_hierarchical
+
+
+#############################################
+# Link the executable inheritance_hierarchical.exe
+
+build inheritance_hierarchical.exe: CXX_EXECUTABLE_LINKER__inheritance_hierarchical_Debug CMakeFiles/inheritance_hierarchical.dir/Inheritance/inheritanceType4(hierarchical).cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\inheritance_hierarchical.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = inheritance_hierarchical.exe
+  TARGET_IMPLIB = libinheritance_hierarchical.dll.a
+  TARGET_PDB = inheritance_hierarchical.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target inheritance_hybrid
+
+
+#############################################
+# Order-only phony target for inheritance_hybrid
+
+build cmake_object_order_depends_target_inheritance_hybrid: phony || .
+
+build CMakeFiles/inheritance_hybrid.dir/Inheritance/inheritanceType5(hybrid).cpp.obj: CXX_COMPILER__inheritance_hybrid_unscanned_Debug D$:/C++$ programming/Inheritance/inheritanceType5(hybrid).cpp || cmake_object_order_depends_target_inheritance_hybrid
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\inheritance_hybrid.dir\Inheritance\inheritanceType5(hybrid).cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\inheritance_hybrid.dir
+  OBJECT_FILE_DIR = CMakeFiles\inheritance_hybrid.dir\Inheritance
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target inheritance_hybrid
+
+
+#############################################
+# Link the executable inheritance_hybrid.exe
+
+build inheritance_hybrid.exe: CXX_EXECUTABLE_LINKER__inheritance_hybrid_Debug CMakeFiles/inheritance_hybrid.dir/Inheritance/inheritanceType5(hybrid).cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\inheritance_hybrid.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = inheritance_hybrid.exe
+  TARGET_IMPLIB = libinheritance_hybrid.dll.a
+  TARGET_PDB = inheritance_hybrid.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target virtual_function
+
+
+#############################################
+# Order-only phony target for virtual_function
+
+build cmake_object_order_depends_target_virtual_function: phony || .
+
+build CMakeFiles/virtual_function.dir/Polymorphism/virtual_function.cpp.obj: CXX_COMPILER__virtual_function_unscanned_Debug D$:/C++$ programming/Polymorphism/virtual_function.cpp || cmake_object_order_depends_target_virtual_function
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\virtual_function.dir\Polymorphism\virtual_function.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\virtual_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\virtual_function.dir\Polymorphism
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target virtual_function
+
+
+#############################################
+# Link the executable virtual_function.exe
+
+build virtual_function.exe: CXX_EXECUTABLE_LINKER__virtual_function_Debug CMakeFiles/virtual_function.dir/Polymorphism/virtual_function.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\virtual_function.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = virtual_function.exe
+  TARGET_IMPLIB = libvirtual_function.dll.a
+  TARGET_PDB = virtual_function.exe.dbg
 
 
 #############################################
@@ -143,7 +556,33 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build C__: phony C__.exe
+build class_object: phony class_object.exe
+
+build friend_class: phony friend_class.exe
+
+build friend_function: phony friend_function.exe
+
+build friend_method: phony friend_method.exe
+
+build inheritance1: phony inheritance1.exe
+
+build inheritance_hierarchical: phony inheritance_hierarchical.exe
+
+build inheritance_hybrid: phony inheritance_hybrid.exe
+
+build inheritance_multilevel: phony inheritance_multilevel.exe
+
+build inheritance_multiple: phony inheritance_multiple.exe
+
+build inheritance_single: phony inheritance_single.exe
+
+build members: phony members.exe
+
+build nested_class: phony nested_class.exe
+
+build person: phony person.exe
+
+build virtual_function: phony virtual_function.exe
 
 # =============================================================================
 # Folder targets.
@@ -160,7 +599,7 @@ build codegen: phony
 #############################################
 # Folder: D:/C++ programming/cmake-build-debug
 
-build all: phony C__.exe
+build all: phony class_object.exe friend_class.exe friend_function.exe friend_method.exe members.exe nested_class.exe person.exe inheritance1.exe inheritance_single.exe inheritance_multiple.exe inheritance_multilevel.exe inheritance_hierarchical.exe inheritance_hybrid.exe virtual_function.exe
 
 # =============================================================================
 # Built-in targets

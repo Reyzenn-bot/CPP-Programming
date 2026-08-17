@@ -18,7 +18,22 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="C++_Programming" targetName="virtual_function" />
+      <config projectName="C++_Programming" targetName="class_object" />
+      <config projectName="C++_Programming" targetName="friend_class" />
+      <config projectName="C++_Programming" targetName="nested_class" />
+      <config projectName="C++_Programming" targetName="inheritance_multilevel" />
+      <config projectName="C++_Programming" targetName="inheritance_hybrid" />
+      <config projectName="C++_Programming" targetName="friend_function" />
+      <config projectName="C++_Programming" targetName="friend_method" />
+      <config projectName="C++_Programming" targetName="person" />
+      <config projectName="C++_Programming" targetName="inheritance1" />
+      <config projectName="C++_Programming" targetName="inheritance_multiple" />
+      <config projectName="C++_Programming" targetName="inheritance_hierarchical" />
+      <config projectName="C++_Programming" targetName="inheritance_single" />
+      <config projectName="C++_Programming" targetName="members" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -26,7 +41,88 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f57da30b-049e-4758-96fc-a93cdfad227d" name="Changes" comment="" />
+    <list default="true" id="f57da30b-049e-4758-96fc-a93cdfad227d" name="Changes" comment="C++ lesson">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NutritionCalculator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NutritionCalculator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_overloading(rectangle).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_overloading(rectangle).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayOfNestedObject.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayOfNestedObject.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_structure.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_structure.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assign_overloading(rectangle).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assign_overloading(rectangle).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_object.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_object.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-92a34e54ea1d90ba45b6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0bd82bb067a923e4361b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-06-15T01-54-52-0673.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C__-Debug-6eb9b34c574d56b2fddf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container_class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/container_class.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equal_to_overloading(rectangle).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equal_to_overloading(rectangle).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend_class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend_class.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend_function.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend_function.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend_method.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend_method.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType1(single).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType1(single).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType2(multiple).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType2(multiple).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType3(multilevel).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType3(multilevel).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType4(hierarchical).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType4(hierarchical).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType5(hybrid).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceType5(hybrid).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initializer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initializer_list.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/members.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/members.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/members2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/members2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_class.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_delete_this.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_delete_this.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nutrition_calculator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nutrition_calculator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nutrition_calculator01.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nutrition_calculator01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nutrition_calculator02.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nutrition_calculator02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overloading.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overloading.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll_manage_system.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll_manage_system.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/person.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/person.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rectangle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/struct_Person.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/struct_Person.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vector.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual_function.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual_function.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +132,28 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Reyzenn-bot&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Reyzenn-bot/CPP-Programming.git&quot;,
+    &quot;accountId&quot;: &quot;3b0a05c1-413e-4671-93d7-3906984d645d&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/rectangle.h" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -59,143 +177,201 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.Inheritance1.cpp.executor": "Run",
-    "C/C++ File.NutritionCalculator.cpp.executor": "Run",
-    "C/C++ File.add_overloading(rectangle).cpp.executor": "Run",
-    "C/C++ File.arrayOfNestedObject.cpp.executor": "Run",
-    "C/C++ File.array_structure.cpp.executor": "Run",
-    "C/C++ File.assign_overloading(rectangle).cpp.executor": "Run",
-    "C/C++ File.class_object.cpp.executor": "Run",
-    "C/C++ File.container_class.cpp.executor": "Run",
-    "C/C++ File.equal_to_overloading(rectangle).cpp.executor": "Run",
-    "C/C++ File.friend_class.cpp.executor": "Run",
-    "C/C++ File.friend_function.cpp.executor": "Run",
-    "C/C++ File.friend_method.cpp.executor": "Run",
-    "C/C++ File.inheritanceType1(single).cpp.executor": "Run",
-    "C/C++ File.inheritanceType2(multiple).cpp.executor": "Run",
-    "C/C++ File.inheritanceType3(multilevel).cpp.executor": "Run",
-    "C/C++ File.inheritanceType4(hierarchical).cpp.executor": "Run",
-    "C/C++ File.inheritanceType5(hybrid).cpp.executor": "Run",
-    "C/C++ File.initializer.cpp.executor": "Run",
-    "C/C++ File.members.cpp.executor": "Run",
-    "C/C++ File.members2.cpp.executor": "Run",
-    "C/C++ File.nested_class.cpp.executor": "Run",
-    "C/C++ File.new_delete_this.cpp.executor": "Run",
-    "C/C++ File.nutrition_calculator.cpp.executor": "Run",
-    "C/C++ File.nutrition_calculator01.cpp.executor": "Run",
-    "C/C++ File.nutrition_calculator02.cpp.executor": "Run",
-    "C/C++ File.overloading.cpp.executor": "Run",
-    "C/C++ File.person.cpp.executor": "Run",
-    "C/C++ File.struct_Person.cpp.executor": "Run",
-    "CMake Application.C__.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/C++/main.cpp",
-    "org.rust.first.attach.projects": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Inheritance1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.NutritionCalculator.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.add_overloading(rectangle).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.arrayOfNestedObject.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.array_structure.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.assign_overloading(rectangle).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.class_object.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.container_class.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.equal_to_overloading(rectangle).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.friend_class.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.friend_function.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.friend_method.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.inheritanceType1(single).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.inheritanceType2(multiple).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.inheritanceType3(multilevel).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.inheritanceType4(hierarchical).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.inheritanceType5(hybrid).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.initializer.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.members.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.members2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nested_class.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.new_delete_this.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nutrition_calculator.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nutrition_calculator01.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nutrition_calculator02.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.overloading.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.payroll_manage._system.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.payroll_manage_system.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.person.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.struct_Person.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.vector.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.virtual_function.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.C__.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Debug.MyCppProject.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/C++ programming/Inheritance&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/C++/main.cpp&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\C++ programming\Inheritance" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\C++ programming\cmake-build-debug" />
       <recent name="D:\C++ programming" />
+      <recent name="D:\C++ programming\cmake-build-debug" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.assign_overloading(rectangle).cpp">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="CMake Debug.MyCppProject">
+    <configuration name="MyCppProject" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="class_object" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="class_object" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="class_object">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="add_overloading(rectangle).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="add_overloading(rectangle).cpp" CONFIG_NAME="add_overloading(rectangle).cpp">
-      <option name="sourceFile" value="add_overloading(rectangle).cpp" />
+    <configuration name="friend_class" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="friend_class" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="friend_class">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="friend_function" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="friend_function" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="friend_function">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="friend_method" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="friend_method" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="friend_method">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritance1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="inheritance1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="inheritance1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritance_hierarchical" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="inheritance_hierarchical" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="inheritance_hierarchical">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritance_hybrid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="inheritance_hybrid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="inheritance_hybrid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritance_multilevel" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="inheritance_multilevel" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="inheritance_multilevel">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritance_multiple" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="inheritance_multiple" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="inheritance_multiple">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritance_single" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="inheritance_single" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="inheritance_single">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="members" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="members" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="members">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nested_class" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="nested_class" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="nested_class">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="person" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="person" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="person">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="virtual_function" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="virtual_function" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="virtual_function">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="payroll_manage._system.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="payroll_manage._system.cpp" CONFIG_NAME="payroll_manage._system.cpp">
+      <option name="sourceFile" value="payroll_manage._system.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="assign_overloading(rectangle).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="assign_overloading(rectangle).cpp" CONFIG_NAME="assign_overloading(rectangle).cpp">
-      <option name="sourceFile" value="assign_overloading(rectangle).cpp" />
+    <configuration name="payroll_manage_system.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="payroll_manage_system.cpp" CONFIG_NAME="payroll_manage_system.cpp">
+      <option name="sourceFile" value="payroll_manage_system.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="container_class.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="container_class.cpp" CONFIG_NAME="container_class.cpp">
-      <option name="sourceFile" value="container_class.cpp" />
+    <configuration name="vector.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="vector.cpp" CONFIG_NAME="vector.cpp">
+      <option name="sourceFile" value="vector.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="container_class.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="container_class.cpp" CONFIG_NAME="container_class.cpp">
-      <option name="sourceFile" value="container_class.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="equal_to_overloading(rectangle).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="equal_to_overloading(rectangle).cpp" CONFIG_NAME="equal_to_overloading(rectangle).cpp">
-      <option name="sourceFile" value="equal_to_overloading(rectangle).cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inheritanceType4(hierarchical).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="inheritanceType4(hierarchical).cpp" CONFIG_NAME="inheritanceType4(hierarchical).cpp">
-      <option name="sourceFile" value="inheritanceType4(hierarchical).cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inheritanceType5(hybrid).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="inheritanceType5(hybrid).cpp" CONFIG_NAME="inheritanceType5(hybrid).cpp">
-      <option name="sourceFile" value="inheritanceType5(hybrid).cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="initializer.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="initializer.cpp" CONFIG_NAME="initializer.cpp">
-      <option name="sourceFile" value="initializer.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="overloading.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="overloading.cpp" CONFIG_NAME="overloading.cpp">
-      <option name="sourceFile" value="overloading.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="overloading.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="overloading.cpp" CONFIG_NAME="overloading.cpp">
-      <option name="sourceFile" value="overloading.cpp" />
+    <configuration name="virtual_function.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="virtual_function.cpp" CONFIG_NAME="virtual_function.cpp">
+      <option name="sourceFile" value="virtual_function.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.add_overloading(rectangle).cpp" />
-      <item itemvalue="C/C++ File.assign_overloading(rectangle).cpp" />
-      <item itemvalue="C/C++ File.equal_to_overloading(rectangle).cpp" />
-      <item itemvalue="C/C++ File.overloading.cpp" />
-      <item itemvalue="C/C++ File.container_class.cpp" />
+      <item itemvalue="C/C++ File.payroll_manage._system.cpp" />
+      <item itemvalue="C/C++ File.payroll_manage_system.cpp" />
+      <item itemvalue="C/C++ File.vector.cpp" />
+      <item itemvalue="C/C++ File.virtual_function.cpp" />
+      <item itemvalue="CMake Application.class_object" />
+      <item itemvalue="CMake Application.friend_class" />
+      <item itemvalue="CMake Application.friend_function" />
+      <item itemvalue="CMake Application.friend_method" />
+      <item itemvalue="CMake Application.inheritance1" />
+      <item itemvalue="CMake Application.inheritance_hierarchical" />
+      <item itemvalue="CMake Application.inheritance_hybrid" />
+      <item itemvalue="CMake Application.inheritance_multilevel" />
+      <item itemvalue="CMake Application.inheritance_multiple" />
+      <item itemvalue="CMake Application.inheritance_single" />
+      <item itemvalue="CMake Application.members" />
+      <item itemvalue="CMake Application.nested_class" />
+      <item itemvalue="CMake Application.person" />
+      <item itemvalue="CMake Application.virtual_function" />
+      <item itemvalue="CMake Debug.MyCppProject" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.assign_overloading(rectangle).cpp" />
-        <item itemvalue="C/C++ File.equal_to_overloading(rectangle).cpp" />
-        <item itemvalue="C/C++ File.add_overloading(rectangle).cpp" />
-        <item itemvalue="C/C++ File.overloading.cpp" />
-        <item itemvalue="C/C++ File.container_class.cpp" />
+        <item itemvalue="CMake Debug.MyCppProject" />
+        <item itemvalue="C/C++ File.virtual_function.cpp" />
+        <item itemvalue="C/C++ File.payroll_manage_system.cpp" />
+        <item itemvalue="C/C++ File.payroll_manage._system.cpp" />
+        <item itemvalue="C/C++ File.vector.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +430,28 @@
       <workItem from="1785852841267" duration="1101000" />
       <workItem from="1785897203032" duration="519000" />
       <workItem from="1786087406638" duration="3547000" />
+      <workItem from="1786501916917" duration="3914000" />
+      <workItem from="1786524035991" duration="3905000" />
+      <workItem from="1786581322322" duration="3040000" />
+      <workItem from="1786609738094" duration="2003000" />
+      <workItem from="1786779679994" duration="449000" />
+      <workItem from="1786873118511" duration="73000" />
+      <workItem from="1786929746048" duration="1036000" />
+      <workItem from="1786930857774" duration="235000" />
+      <workItem from="1786950678040" duration="117000" />
+      <workItem from="1786952082832" duration="409000" />
+      <workItem from="1786952514218" duration="85000" />
+      <workItem from="1786955816689" duration="367000" />
     </task>
+    <task id="LOCAL-00001" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1786779977240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786779977241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +461,10 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="C++ lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="C++ lesson" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -14,6 +14,15 @@
 # EXTERNAL cache entries
 ########################
 
+//Value Computed by CMake
+C++_Programming_BINARY_DIR:STATIC=D:/C++ programming/cmake-build-debug
+
+//Value Computed by CMake
+C++_Programming_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+C++_Programming_SOURCE_DIR:STATIC=D:/C++ programming
+
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=D:/CLion 2025.3.1.1/bin/mingw/bin/addr2line.exe
 
@@ -163,7 +172,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=C__
+CMAKE_PROJECT_NAME:STATIC=C++_Programming
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=D:/CLion 2025.3.1.1/bin/mingw/bin/ranlib.exe
@@ -256,6 +265,24 @@ C___IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 C___SOURCE_DIR:STATIC=D:/C++ programming
+
+//Value Computed by CMake
+MyCppProject_BINARY_DIR:STATIC=D:/C++ programming/cmake-build-debug
+
+//Value Computed by CMake
+MyCppProject_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+MyCppProject_SOURCE_DIR:STATIC=D:/C++ programming
+
+//Value Computed by CMake
+Project_BINARY_DIR:STATIC=D:/C++ programming/cmake-build-debug
+
+//Value Computed by CMake
+Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Project_SOURCE_DIR:STATIC=D:/C++ programming
 
 
 ########################

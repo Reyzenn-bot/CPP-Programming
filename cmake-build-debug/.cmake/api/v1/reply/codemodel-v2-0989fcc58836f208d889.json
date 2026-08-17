@@ -1,0 +1,177 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C++_Programming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "class_object::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-class_object-Debug-59260a2e5a028b5495a8.json",
+					"name" : "class_object",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "friend_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-friend_class-Debug-6a3ce3c6b639a79446bc.json",
+					"name" : "friend_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "friend_function::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-friend_function-Debug-3d6e0b261b16314eb9f6.json",
+					"name" : "friend_function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "friend_method::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-friend_method-Debug-4385e49b4cba622787f0.json",
+					"name" : "friend_method",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance1-Debug-00ca7db3c5be4d5b0679.json",
+					"name" : "inheritance1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance_hierarchical::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance_hierarchical-Debug-ea7722219475efbba777.json",
+					"name" : "inheritance_hierarchical",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance_hybrid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance_hybrid-Debug-e46ecabd1db306e453b0.json",
+					"name" : "inheritance_hybrid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance_multilevel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance_multilevel-Debug-2a346a25103134632ebc.json",
+					"name" : "inheritance_multilevel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance_multiple::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance_multiple-Debug-51922c1cceb4f11617f3.json",
+					"name" : "inheritance_multiple",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inheritance_single::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inheritance_single-Debug-7c74c6f7b0880c7d19ed.json",
+					"name" : "inheritance_single",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "members::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-members-Debug-ef9807ac2bfc63a03f65.json",
+					"name" : "members",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nested_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nested_class-Debug-fbf0f94a339e93e564d2.json",
+					"name" : "nested_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person-Debug-687ba79ec385c4c306f4.json",
+					"name" : "person",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_function::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_function-Debug-a7205356f45b724cf584.json",
+					"name" : "virtual_function",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++ programming/cmake-build-debug",
+		"source" : "D:/C++ programming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
