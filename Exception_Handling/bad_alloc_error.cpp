@@ -1,8 +1,8 @@
 #include<iostream>
-#include<new>
+#include<new>  //សម្រាប់សុំចែកអង្គចងចាំយកមកប្រើប្រាស់
 using namespace std;
 int main() {
-    try {
+    try {     //សាកសុំអង្គចងចាំសម្រាប់ផ្ទុកលេខចំនួនគត់ច្រើនបំផុត
         int* massiveArray=new int[1000000000000000];
         cout<<"Memory allocated!\n";
         delete[] massiveArray;
