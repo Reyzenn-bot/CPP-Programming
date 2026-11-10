@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "class_object.exe"
+			"path" : "nested_class.exe"
 		},
 		{
-			"path" : "class_object.pdb"
+			"path" : "nested_class.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 18,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "class_object::@6890427a1f51a3e7e1df",
+	"id" : "nested_class::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "class_object",
-	"nameOnDisk" : "class_object.exe",
+	"name" : "nested_class",
+	"nameOnDisk" : "nested_class.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -94,7 +94,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Class_and_Object/class_object.cpp",
+			"path" : "Class_and_Object/nested_class.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

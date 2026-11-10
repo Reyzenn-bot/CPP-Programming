@@ -56,6 +56,48 @@ build CMakeFiles/class_object.dir/Class_and_Object/class_object.cpp.obj: CXX_COM
   OBJECT_DIR = CMakeFiles\class_object.dir
   OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Class_and_Object
 
+build CMakeFiles/class_object.dir/Exception_Handling/exception0.cpp.obj: CXX_COMPILER__class_object_unscanned_Debug D$:/C++$ programming/Exception_Handling/exception0.cpp || cmake_object_order_depends_target_class_object
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\class_object.dir\Exception_Handling\exception0.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Exception_Handling
+
+build CMakeFiles/class_object.dir/Exception_Handling/exception.cpp.obj: CXX_COMPILER__class_object_unscanned_Debug D$:/C++$ programming/Exception_Handling/exception.cpp || cmake_object_order_depends_target_class_object
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\class_object.dir\Exception_Handling\exception.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Exception_Handling
+
+build CMakeFiles/class_object.dir/Exception_Handling/logical_error.cpp.obj: CXX_COMPILER__class_object_unscanned_Debug D$:/C++$ programming/Exception_Handling/logical_error.cpp || cmake_object_order_depends_target_class_object
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\class_object.dir\Exception_Handling\logical_error.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Exception_Handling
+
+build CMakeFiles/class_object.dir/Exception_Handling/runtime_error.cpp.obj: CXX_COMPILER__class_object_unscanned_Debug D$:/C++$ programming/Exception_Handling/runtime_error.cpp || cmake_object_order_depends_target_class_object
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\class_object.dir\Exception_Handling\runtime_error.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Exception_Handling
+
+build CMakeFiles/class_object.dir/Exception_Handling/out_of_range_error.cpp.obj: CXX_COMPILER__class_object_unscanned_Debug D$:/C++$ programming/Exception_Handling/out_of_range_error.cpp || cmake_object_order_depends_target_class_object
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\class_object.dir\Exception_Handling\out_of_range_error.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Exception_Handling
+
+build CMakeFiles/class_object.dir/Exception_Handling/bad_alloc_error.cpp.obj: CXX_COMPILER__class_object_unscanned_Debug D$:/C++$ programming/Exception_Handling/bad_alloc_error.cpp || cmake_object_order_depends_target_class_object
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\class_object.dir\Exception_Handling\bad_alloc_error.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\class_object.dir
+  OBJECT_FILE_DIR = CMakeFiles\class_object.dir\Exception_Handling
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target class_object
@@ -64,7 +106,7 @@ build CMakeFiles/class_object.dir/Class_and_Object/class_object.cpp.obj: CXX_COM
 #############################################
 # Link the executable class_object.exe
 
-build class_object.exe: CXX_EXECUTABLE_LINKER__class_object_Debug CMakeFiles/class_object.dir/Class_and_Object/class_object.cpp.obj
+build class_object.exe: CXX_EXECUTABLE_LINKER__class_object_Debug CMakeFiles/class_object.dir/Class_and_Object/class_object.cpp.obj CMakeFiles/class_object.dir/Exception_Handling/exception0.cpp.obj CMakeFiles/class_object.dir/Exception_Handling/exception.cpp.obj CMakeFiles/class_object.dir/Exception_Handling/logical_error.cpp.obj CMakeFiles/class_object.dir/Exception_Handling/runtime_error.cpp.obj CMakeFiles/class_object.dir/Exception_Handling/out_of_range_error.cpp.obj CMakeFiles/class_object.dir/Exception_Handling/bad_alloc_error.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -511,6 +553,34 @@ build CMakeFiles/virtual_function.dir/Polymorphism/virtual_function.cpp.obj: CXX
   OBJECT_DIR = CMakeFiles\virtual_function.dir
   OBJECT_FILE_DIR = CMakeFiles\virtual_function.dir\Polymorphism
 
+build CMakeFiles/virtual_function.dir/Polymorphism/pure_vitual_function.cpp.obj: CXX_COMPILER__virtual_function_unscanned_Debug D$:/C++$ programming/Polymorphism/pure_vitual_function.cpp || cmake_object_order_depends_target_virtual_function
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\virtual_function.dir\Polymorphism\pure_vitual_function.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\virtual_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\virtual_function.dir\Polymorphism
+
+build CMakeFiles/virtual_function.dir/Polymorphism/abstract_class(employee).cpp.obj: CXX_COMPILER__virtual_function_unscanned_Debug D$:/C++$ programming/Polymorphism/abstract_class(employee).cpp || cmake_object_order_depends_target_virtual_function
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\virtual_function.dir\Polymorphism\abstract_class(employee).cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\virtual_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\virtual_function.dir\Polymorphism
+
+build CMakeFiles/virtual_function.dir/Polymorphism/function_template.cpp.obj: CXX_COMPILER__virtual_function_unscanned_Debug D$:/C++$ programming/Polymorphism/function_template.cpp || cmake_object_order_depends_target_virtual_function
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\virtual_function.dir\Polymorphism\function_template.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\virtual_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\virtual_function.dir\Polymorphism
+
+build CMakeFiles/virtual_function.dir/Polymorphism/class_template.cpp.obj: CXX_COMPILER__virtual_function_unscanned_Debug D$:/C++$ programming/Polymorphism/class_template.cpp || cmake_object_order_depends_target_virtual_function
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\virtual_function.dir\Polymorphism\class_template.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\virtual_function.dir
+  OBJECT_FILE_DIR = CMakeFiles\virtual_function.dir\Polymorphism
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target virtual_function
@@ -519,7 +589,7 @@ build CMakeFiles/virtual_function.dir/Polymorphism/virtual_function.cpp.obj: CXX
 #############################################
 # Link the executable virtual_function.exe
 
-build virtual_function.exe: CXX_EXECUTABLE_LINKER__virtual_function_Debug CMakeFiles/virtual_function.dir/Polymorphism/virtual_function.cpp.obj
+build virtual_function.exe: CXX_EXECUTABLE_LINKER__virtual_function_Debug CMakeFiles/virtual_function.dir/Polymorphism/virtual_function.cpp.obj CMakeFiles/virtual_function.dir/Polymorphism/pure_vitual_function.cpp.obj CMakeFiles/virtual_function.dir/Polymorphism/abstract_class(employee).cpp.obj CMakeFiles/virtual_function.dir/Polymorphism/function_template.cpp.obj CMakeFiles/virtual_function.dir/Polymorphism/class_template.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

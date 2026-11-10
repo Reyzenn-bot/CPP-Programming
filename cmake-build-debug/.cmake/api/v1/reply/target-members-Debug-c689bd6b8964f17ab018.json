@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "friend_class.exe"
+			"path" : "members.exe"
 		},
 		{
-			"path" : "friend_class.pdb"
+			"path" : "members.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 17,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "friend_class::@6890427a1f51a3e7e1df",
+	"id" : "members::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "friend_class",
-	"nameOnDisk" : "friend_class.exe",
+	"name" : "members",
+	"nameOnDisk" : "members.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -94,7 +94,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Class_and_Object/friend_class.cpp",
+			"path" : "Class_and_Object/members.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

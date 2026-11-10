@@ -42,86 +42,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57da30b-049e-4758-96fc-a93cdfad227d" name="Changes" comment="C++ lesson">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NutritionCalculator.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NutritionCalculator.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_overloading(rectangle).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_overloading(rectangle).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayOfNestedObject.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayOfNestedObject.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/array_structure.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/array_structure.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign_overloading(rectangle).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assign_overloading(rectangle).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_object.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_object.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-92a34e54ea1d90ba45b6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0bd82bb067a923e4361b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-06-15T01-54-52-0673.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C__-Debug-6eb9b34c574d56b2fddf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_and_Object/arrayOfNestedObject.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_Object/arrayOfNestedObject.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0989fcc58836f208d889.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-08-17T07-41-56-0319.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-class_object-Debug-59260a2e5a028b5495a8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-friend_class-Debug-6a3ce3c6b639a79446bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-friend_function-Debug-3d6e0b261b16314eb9f6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-friend_method-Debug-4385e49b4cba622787f0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance1-Debug-00ca7db3c5be4d5b0679.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_hierarchical-Debug-ea7722219475efbba777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_hybrid-Debug-e46ecabd1db306e453b0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_multilevel-Debug-2a346a25103134632ebc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_multiple-Debug-51922c1cceb4f11617f3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_single-Debug-7c74c6f7b0880c7d19ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-members-Debug-ef9807ac2bfc63a03f65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-nested_class-Debug-fbf0f94a339e93e564d2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-person-Debug-687ba79ec385c4c306f4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-virtual_function-Debug-a7205356f45b724cf584.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/container_class.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/container_class.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/equal_to_overloading(rectangle).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/equal_to_overloading(rectangle).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend_class.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend_class.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend_function.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend_function.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend_method.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend_method.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType1(single).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType1(single).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType2(multiple).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType2(multiple).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType3(multilevel).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType3(multilevel).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType4(hierarchical).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType4(hierarchical).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType5(hybrid).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceType5(hybrid).exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/initializer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/initializer_list.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested_class.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested_class.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_delete_this.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_delete_this.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nutrition_calculator.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nutrition_calculator.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nutrition_calculator01.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nutrition_calculator01.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nutrition_calculator02.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nutrition_calculator02.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overloading.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overloading.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payroll_manage_system.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payroll_manage_system.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/person.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/person.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangle.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct_Person.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct_Person.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual_function.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual_function.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +101,9 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="Qp5IunaQ" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -170,6 +114,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="3EVsQzrUW8OIT3gM2GGi0jWx5Ak" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectStatusUIService">{
   &quot;uiKindId&quot;: &quot;Widget&quot;
 }</component>
@@ -181,22 +128,29 @@
   &quot;keyToString&quot;: {
     &quot;C/C++ File.Inheritance1.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.NutritionCalculator.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.abstract_class.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.add_overloading(rectangle).cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.arrayOfNestedObject.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.array_structure.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.assign_overloading(rectangle).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.bad_alloc_error.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.class_object.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.class_template.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.container_class.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.equal_to_overloading(rectangle).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.exception.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.exception0.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.friend_class.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.friend_function.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.friend_method.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.function_template.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.inheritanceType1(single).cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.inheritanceType2(multiple).cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.inheritanceType3(multilevel).cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.inheritanceType4(hierarchical).cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.inheritanceType5(hybrid).cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.initializer.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.logical_error.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.members.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.members2.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.nested_class.cpp.executor&quot;: &quot;Run&quot;,
@@ -204,18 +158,31 @@
     &quot;C/C++ File.nutrition_calculator.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.nutrition_calculator01.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.nutrition_calculator02.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.out_of_range_error.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.overloading.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.payroll_manage._system.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.payroll_manage_system.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.person.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pure_vitual_function.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.read_from_text_file_using.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.read_from_text_file_using_get.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.read_from_text_file_using_getline.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.runtime_error.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.seekX_put.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.struct_Person.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.tellX_seekg_get.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.text_vs_binary_file.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.vector.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.virtual_function.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.write_read_with_file_stream.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.write_to_text_file_using.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.write_to_text_file_using_put.cpp.executor&quot;: &quot;Run&quot;,
     &quot;CMake Application.C__.executor&quot;: &quot;Run&quot;,
     &quot;CMake Debug.MyCppProject.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
@@ -233,7 +200,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/C++/main.cpp&quot;,
     &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -246,10 +213,7 @@
       <recent name="D:\C++ programming\cmake-build-debug" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Debug.MyCppProject">
-    <configuration name="MyCppProject" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.tellX_seekg_get.cpp">
     <configuration name="class_object" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="class_object" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C++_Programming" RUN_TARGET_NAME="class_object">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -320,35 +284,37 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="payroll_manage._system.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="payroll_manage._system.cpp" CONFIG_NAME="payroll_manage._system.cpp">
-      <option name="sourceFile" value="payroll_manage._system.cpp" />
+    <configuration name="arrayOfNestedObject.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="arrayOfNestedObject.cpp" CONFIG_NAME="arrayOfNestedObject.cpp">
+      <option name="sourceFile" value="Class_and_Object\arrayOfNestedObject.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="payroll_manage_system.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="payroll_manage_system.cpp" CONFIG_NAME="payroll_manage_system.cpp">
-      <option name="sourceFile" value="payroll_manage_system.cpp" />
+    <configuration name="read_from_text_file_using_get.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="read_from_text_file_using_get.cpp" CONFIG_NAME="read_from_text_file_using_get.cpp">
+      <option name="sourceFile" value="DataFile\read_from_text_file_using_get.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vector.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="vector.cpp" CONFIG_NAME="vector.cpp">
-      <option name="sourceFile" value="vector.cpp" />
+    <configuration name="seekX_put.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="seekX_put.cpp" CONFIG_NAME="seekX_put.cpp">
+      <option name="sourceFile" value="DataFile\seekX_put.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="virtual_function.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++ programming" TARGET_NAME="virtual_function.cpp" CONFIG_NAME="virtual_function.cpp">
-      <option name="sourceFile" value="virtual_function.cpp" />
+    <configuration name="tellX_seekg_get.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="tellX_seekg_get.cpp" CONFIG_NAME="tellX_seekg_get.cpp">
+      <option name="sourceFile" value="DataFile\tellX_seekg_get.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text_vs_binary_file.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C++_Programming" TARGET_NAME="text_vs_binary_file.cpp" CONFIG_NAME="text_vs_binary_file.cpp">
+      <option name="sourceFile" value="DataFile\text_vs_binary_file.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.payroll_manage._system.cpp" />
-      <item itemvalue="C/C++ File.payroll_manage_system.cpp" />
-      <item itemvalue="C/C++ File.vector.cpp" />
-      <item itemvalue="C/C++ File.virtual_function.cpp" />
       <item itemvalue="CMake Application.class_object" />
       <item itemvalue="CMake Application.friend_class" />
       <item itemvalue="CMake Application.friend_function" />
@@ -363,15 +329,19 @@
       <item itemvalue="CMake Application.nested_class" />
       <item itemvalue="CMake Application.person" />
       <item itemvalue="CMake Application.virtual_function" />
-      <item itemvalue="CMake Debug.MyCppProject" />
+      <item itemvalue="C/C++ File.arrayOfNestedObject.cpp" />
+      <item itemvalue="C/C++ File.read_from_text_file_using_get.cpp" />
+      <item itemvalue="C/C++ File.seekX_put.cpp" />
+      <item itemvalue="C/C++ File.tellX_seekg_get.cpp" />
+      <item itemvalue="C/C++ File.text_vs_binary_file.cpp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="CMake Debug.MyCppProject" />
-        <item itemvalue="C/C++ File.virtual_function.cpp" />
-        <item itemvalue="C/C++ File.payroll_manage_system.cpp" />
-        <item itemvalue="C/C++ File.payroll_manage._system.cpp" />
-        <item itemvalue="C/C++ File.vector.cpp" />
+        <item itemvalue="C/C++ File.tellX_seekg_get.cpp" />
+        <item itemvalue="C/C++ File.seekX_put.cpp" />
+        <item itemvalue="C/C++ File.arrayOfNestedObject.cpp" />
+        <item itemvalue="C/C++ File.text_vs_binary_file.cpp" />
+        <item itemvalue="C/C++ File.read_from_text_file_using_get.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +411,25 @@
       <workItem from="1786950678040" duration="117000" />
       <workItem from="1786952082832" duration="409000" />
       <workItem from="1786952514218" duration="85000" />
-      <workItem from="1786955816689" duration="367000" />
+      <workItem from="1786955816689" duration="885000" />
+      <workItem from="1786959009123" duration="6000" />
+      <workItem from="1786960917730" duration="20000" />
+      <workItem from="1787041626409" duration="2865000" />
+      <workItem from="1787106421701" duration="3628000" />
+      <workItem from="1787391759629" duration="2282000" />
+      <workItem from="1787646672286" duration="3348000" />
+      <workItem from="1787713123080" duration="2149000" />
+      <workItem from="1787715704374" duration="11000" />
+      <workItem from="1787976543956" duration="3538000" />
+      <workItem from="1788498786545" duration="3375000" />
+      <workItem from="1788573944969" duration="362000" />
+      <workItem from="1788672676302" duration="2561000" />
+      <workItem from="1788688181370" duration="2708000" />
+      <workItem from="1788706130742" duration="1264000" />
+      <workItem from="1788707941752" duration="94000" />
+      <workItem from="1788856158281" duration="10529000" />
+      <workItem from="1789200997813" duration="90000" />
+      <workItem from="1789639216823" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="C++ lesson">
       <option name="closed" value="true" />
@@ -451,7 +439,87 @@
       <option name="project" value="LOCAL" />
       <updated>1786779977241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1786956314298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786956314298</updated>
+    </task>
+    <task id="LOCAL-00003" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1787110076993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787110076993</updated>
+    </task>
+    <task id="LOCAL-00004" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1787393995379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787393995379</updated>
+    </task>
+    <task id="LOCAL-00005" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1787714487489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1787714487489</updated>
+    </task>
+    <task id="LOCAL-00006" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1787714496002</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1787714496002</updated>
+    </task>
+    <task id="LOCAL-00007" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1787976562460</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1787976562460</updated>
+    </task>
+    <task id="LOCAL-00008" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1787976708521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1787976708521</updated>
+    </task>
+    <task id="LOCAL-00009" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1787980108316</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1787980108316</updated>
+    </task>
+    <task id="LOCAL-00010" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1788707330803</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1788707330803</updated>
+    </task>
+    <task id="LOCAL-00011" summary="C++ lesson">
+      <option name="closed" value="true" />
+      <created>1788869054059</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1788869054060</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,6 +529,17 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="C++ lesson" />
