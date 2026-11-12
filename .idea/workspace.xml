@@ -43,26 +43,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f57da30b-049e-4758-96fc-a93cdfad227d" name="Changes" comment="C++ lesson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class_and_Object/arrayOfNestedObject.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_Object/arrayOfNestedObject.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0989fcc58836f208d889.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-08-17T07-41-56-0319.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-class_object-Debug-59260a2e5a028b5495a8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-friend_class-Debug-6a3ce3c6b639a79446bc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-friend_function-Debug-3d6e0b261b16314eb9f6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-friend_method-Debug-4385e49b4cba622787f0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance1-Debug-00ca7db3c5be4d5b0679.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_hierarchical-Debug-ea7722219475efbba777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_hybrid-Debug-e46ecabd1db306e453b0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_multilevel-Debug-2a346a25103134632ebc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_multiple-Debug-51922c1cceb4f11617f3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-inheritance_single-Debug-7c74c6f7b0880c7d19ed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-members-Debug-ef9807ac2bfc63a03f65.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-nested_class-Debug-fbf0f94a339e93e564d2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-person-Debug-687ba79ec385c4c306f4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-virtual_function-Debug-a7205356f45b724cf584.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_and_Object/friend_class.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_Object/friend_class.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataFile/tellX_seekg_get.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DataFile/tellX_seekg_get.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Inheritance1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Inheritance1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structure/array_structure.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Structure/array_structure.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,6 +300,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.arrayOfNestedObject.cpp" />
+      <item itemvalue="C/C++ File.read_from_text_file_using_get.cpp" />
+      <item itemvalue="C/C++ File.seekX_put.cpp" />
+      <item itemvalue="C/C++ File.tellX_seekg_get.cpp" />
+      <item itemvalue="C/C++ File.text_vs_binary_file.cpp" />
       <item itemvalue="CMake Application.class_object" />
       <item itemvalue="CMake Application.friend_class" />
       <item itemvalue="CMake Application.friend_function" />
@@ -329,11 +319,6 @@
       <item itemvalue="CMake Application.nested_class" />
       <item itemvalue="CMake Application.person" />
       <item itemvalue="CMake Application.virtual_function" />
-      <item itemvalue="C/C++ File.arrayOfNestedObject.cpp" />
-      <item itemvalue="C/C++ File.read_from_text_file_using_get.cpp" />
-      <item itemvalue="C/C++ File.seekX_put.cpp" />
-      <item itemvalue="C/C++ File.tellX_seekg_get.cpp" />
-      <item itemvalue="C/C++ File.text_vs_binary_file.cpp" />
     </list>
     <recent_temporary>
       <list>
@@ -430,6 +415,7 @@
       <workItem from="1788856158281" duration="10529000" />
       <workItem from="1789200997813" duration="90000" />
       <workItem from="1789639216823" duration="9000" />
+      <workItem from="1794292261642" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="C++ lesson">
       <option name="closed" value="true" />
